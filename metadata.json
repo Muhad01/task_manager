@@ -1,0 +1,8 @@
+{
+  "name": "NeuralTask AI",
+  "description": "Next-gen Task Manager with Gemini Live AI voice assistant, Routine planning, and Hand Gesture navigation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
